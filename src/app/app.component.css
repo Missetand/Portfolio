@@ -1,0 +1,15 @@
+#brand {
+    max-height: 40px;
+    margin-top: -10px;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #4d5f7c;
+    height: 1500px;
+}
